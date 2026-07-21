@@ -12,8 +12,7 @@
   "dependencies": {
     "aws-amplify": "^6.18.0",
     "react": "^19.2.7",
-    "react-dom": "^19.2.7",
-    "vite": "^8.1.1"
+    "react-dom": "^19.2.7"
   },
   "devDependencies": {
     "@aws-amplify/backend": "^1.23.0",
